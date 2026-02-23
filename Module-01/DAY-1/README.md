@@ -45,6 +45,8 @@ public class Main
 ```
 ## OUTPUT:
 <img width="495" height="206" alt="438633115-4eeffebe-7759-467e-bf87-ccd21a978cdf" src="https://github.com/user-attachments/assets/03be65f2-8968-468f-92b6-0699777437fe" />
+
 ## RESULT:
 
 Thus, the class named 'Student' with String variable 'name' and String variable 'address' was created successfully.
+
