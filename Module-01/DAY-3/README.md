@@ -49,7 +49,9 @@ public class Demo
 ```
 ## OUTPUT:
 <img width="504" height="227" alt="439802815-9b9a2b38-6e99-4eba-b01f-e2e592e15150" src="https://github.com/user-attachments/assets/0ca7df85-7f64-47e0-a053-a255dfd10ee9" />
+
 ## RESULT:
 Thus, the Java program to check given number is zero or not was created successfully.
+
 
 
